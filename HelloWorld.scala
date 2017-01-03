@@ -6,5 +6,6 @@ object HelloWorld {
     def main (args: Array[String]) {
         println ("Hello, World!") //print Hello World
         println ("Hi there ...")
+        println ("One more Hi ...")
     }
 }
