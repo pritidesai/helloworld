@@ -1,3 +1,3 @@
-# helloworld
+# Hello World
 
 A sample README to demonstrate my OpenWhisk experiments ...
