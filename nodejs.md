@@ -1,4 +1,9 @@
-        <main id="doc">
+---
+title: Node.js Runtime
+description: Start here to learn how to use Node.js Runtime
+---
+
+<main id="doc">
             <div class="content">
                 <a class="indexable" id="nodejs"></a>
                 <h4>NodeJs</h4>
@@ -18,9 +23,9 @@
                     <li style="list-style-type: decimal">
                         Create a file named <i>hello.js</i>:
                         <div class="terminal">
-{% highlight javascript linenos %}
-{% include code/hello.js %}
-{% endhighlight %}
+function main() {
+    return {payload: 'Hello world'};
+}
                         </div>
                     </li>
                     <li style="list-style-type: decimal">
