@@ -23,9 +23,11 @@ description: Start here to learn how to use Node.js Runtime
                     <li style="list-style-type: decimal">
                         Create a file named <i>hello.js</i>:
                         <div class="terminal">
+<pre><code class="javascript">
 function main() {
     return {payload: 'Hello world'};
 }
+</code></pre>
                         </div>
                     </li>
                     <li style="list-style-type: decimal">
